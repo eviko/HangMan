@@ -1,0 +1,12 @@
+C:\Coding\Gallows\Gallows\bin\Debug\Gallows.exe.config
+C:\Coding\Gallows\Gallows\bin\Debug\Gallows.exe
+C:\Coding\Gallows\Gallows\bin\Debug\Gallows.pdb
+C:\Coding\Gallows\Gallows\obj\Debug\Gallows.exe
+C:\Coding\Gallows\Gallows\obj\Debug\Gallows.pdb
+C:\Coding\Gallows\Gallows\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Coding\HangMan\Gallows\bin\Debug\Gallows.exe.config
+C:\Coding\HangMan\Gallows\bin\Debug\Gallows.exe
+C:\Coding\HangMan\Gallows\bin\Debug\Gallows.pdb
+C:\Coding\HangMan\Gallows\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Coding\HangMan\Gallows\obj\Debug\Gallows.exe
+C:\Coding\HangMan\Gallows\obj\Debug\Gallows.pdb

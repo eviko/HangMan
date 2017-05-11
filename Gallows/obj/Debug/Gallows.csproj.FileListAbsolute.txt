@@ -1,0 +1,7 @@
+c:\users\evi\documents\visual studio 2017\Projects\Gallows\Gallows\obj\Debug\Gallows.csprojResolveAssemblyReference.cache
+C:\Coding\Gallows\Gallows\bin\Debug\Gallows.exe.config
+C:\Coding\Gallows\Gallows\bin\Debug\Gallows.exe
+C:\Coding\Gallows\Gallows\bin\Debug\Gallows.pdb
+C:\Coding\Gallows\Gallows\obj\Debug\Gallows.csprojResolveAssemblyReference.cache
+C:\Coding\Gallows\Gallows\obj\Debug\Gallows.exe
+C:\Coding\Gallows\Gallows\obj\Debug\Gallows.pdb
