@@ -16,8 +16,6 @@ namespace Gallows
             player1.name = Console.ReadLine();
             Console.WriteLine("Give the name of player2");
             player2.name = Console.ReadLine();
-
-
             int firstPlayer = 0;
 
             do
@@ -28,7 +26,6 @@ namespace Gallows
                     Console.WriteLine("Please give a number");
                 }
             } while (firstPlayer != 1 && firstPlayer != 2);
-
             if (firstPlayer == 1)
             {
                 Console.WriteLine($"{player2.name} give the word");
@@ -36,17 +33,12 @@ namespace Gallows
                 Console.Clear();
                 player2.DisplayTheWordToFind();
                 player2.ChecktheLetter();
-
             }
             else
             {
                 Console.WriteLine($"{player1.name} give the word");
                 player1.givenWord = Console.ReadLine();
             }
-
-
-
-
         }
     }
 }
